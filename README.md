@@ -5,7 +5,7 @@
 
 ## I'm a Second Year Undergrad, Programmer, Developer!!
 
-- 🌱 I’m currently learning Machine learning 🤣
+- 🌱 I’m currently learning Machine learning 
 - 👯 I’m web designer and frontend developer
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ I love coding!!
