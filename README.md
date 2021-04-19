@@ -1,4 +1,4 @@
-### Hi there, I'm Ghulam Yadani a Second year undergrad 👋
+### Hi there, I'm Ghulam Yadani👋
 
 [![Website](https://img.shields.io/website?label=Proleaker.com&style=for-the-badge&url=https%3A%2F%2Fproleaker.com)](https://proleaker.com.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iamyazreza)
@@ -85,7 +85,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="ghulamyazdani-bot GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ghulamyazdani-bot&show_icons=true&hide_border=true" />
 
 </details>
 
