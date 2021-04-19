@@ -68,7 +68,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-](url)
+
   <img align="left" alt="ghulamyazdani-bot GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ghulamyazdani-bot&show_icons=true&hide_border=true" />
 
 </details>
