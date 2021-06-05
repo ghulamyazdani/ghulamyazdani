@@ -70,8 +70,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ghulamyazdani GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ghulamyazdani&show_icons=true&hide_border=true" />
-
+  ![Ghulamyazdani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghulamyazdani)
 </details>
 
 [website]: https://proleaker.com
