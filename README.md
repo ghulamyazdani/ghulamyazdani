@@ -72,7 +72,7 @@
   
 </details>
 <details>
-  <summary>:zap: Most </summary>
+  <summary>:computer: Most Used Languages </summary>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamyazdani&langs_count=8)
   
