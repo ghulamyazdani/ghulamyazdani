@@ -64,7 +64,7 @@
 
 ---
 
-[![Ghulamyazdani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghulamyazdani)](https://github.com/anuraghazra/github-readme-stats)
+[![Ghulamyazdani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghulamyazdani)]
 
 
 <details>
