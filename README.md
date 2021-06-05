@@ -72,12 +72,12 @@
   
 </details>
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Most </summary>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamyazdani&langs_count=8)
   
 </details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamyazdani&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
