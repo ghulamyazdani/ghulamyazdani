@@ -70,10 +70,14 @@
 
   ![Ghulamyazdani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghulamyazdani)
   
-  summary>:zap: GitHub Stats</summary>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamyazdani&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamyazdani&langs_count=8)
+  
+</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamyazdani&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
