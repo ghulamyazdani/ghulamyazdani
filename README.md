@@ -65,13 +65,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Ghulamyazdani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghulamyazdani-bot)
+  ![Ghulamyazdani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghulamyazdani)
   
 </details>
 <details>
   <summary>:computer: Most Used Languages </summary>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamyazdani-bot&langs_count=8)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamyazdani&langs_count=8)
   
 </details>
 
