@@ -63,7 +63,7 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Status</summary>
 
   ![Ghulamyazdani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghulamyazdani)
   
