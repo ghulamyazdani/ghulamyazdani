@@ -3,10 +3,10 @@
 [![Website](https://img.shields.io/website?label=Proleaker.com&style=for-the-badge&url=https%3A%2F%2Fproleaker.com)](https://proleaker.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamyazreza?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iamyazreza)
 
-## I'm a Second Year Undergrad, Programmer, Developer!!
+## I'm a 3rd Year Undergrad, Programmer, Developer!!
 
 - 🌱 I’m currently learning Machine learning 
-- 👯 I’m web designer and frontend developer
+- 👯 I’m a web designer and frontend developer
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ I love coding!!
 
