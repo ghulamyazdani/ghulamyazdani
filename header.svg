@@ -2,15 +2,6 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-      	@keyframes rotate {
-					0% {
-						transform: rotate(3deg);
-					}
-					100% {
-						transform: rotate(-3deg);
-					}
-				}
-
 				@keyframes gradientBackground {
 					0% {
 						background-position: 0% 50%;
@@ -35,43 +26,75 @@
 					}
 				}
 
-				.wrapper {
-              height: 100vh;
-              /*This part is important for centering*/
-              display: flex;
-               align-items: center;
-              justify-content: center;
-        }
-        
-        .typing-demo {
-          width: 22ch;
-          animation: typing 2s steps(22), blink .5s step-end infinite alternate;
-          white-space: nowrap;
-          overflow: hidden;
-          border-right: 3px solid;
-          font-family: monospace;
-          font-size: 2em;
-        }
-        
-        @keyframes typing {
-          from {
-            width: 0
-          }
-        }
-            
-        @keyframes blink {
-          50% {
-            border-color: transparent
-          }
-        }
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 400px;
+					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+					background-size: 600% 400%;
+					animation: gradientBackground 10s ease infinite;
+					border-radius: 10px;
+					color: white;
+					text-align: center;
+				}
+				$bg: #1d1f20;
+                $text-color: #d7b94c;
+                $caret-color: white;
+                $text-length: 16;
+                $animation-time: 4s;
+                // Center content
+                body {
+                  display: flex;
+                  align-items: center;
+                  justify-content: center;
+                  height: 100vh;
+                  background: $bg;
+                }
+                // Basic style
+                h1 {
+                  font-family: 'Inconsolata', Consolas, monospace;
+                	font-size: 4em;
+                	color: $text-color;
+                }
+                // Typing style
+                .typing {
+                  position: relative;
+                	&::after {
+                    content: "|";
+                    position: absolute;
+                    right: 0;
+                    width: 100%;
+                    color: $caret-color;
+                    background: $bg;
+                    animation: typing $animation-time steps($text-length) forwards,
+                      caret 1s infinite;
+                  }
+                }
+                // Animation
+                @keyframes typing {
+                	to { width: 0 }
+                }
+                @keyframes caret {
+                	50% { color: transparent }
+                }
 			</style>
 
 	<div class="container">
-	 	<div class="wrapper">
-      		<div class="typing-demo">
-      				This is a typing demo.
-    		</div>
-		</div>
+	 	<h1 class="typing">Hello Codepen i am ghulam yazdani</h1>
    </div>
 	</foreignObject>
 </svg>
