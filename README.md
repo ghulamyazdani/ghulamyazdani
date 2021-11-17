@@ -1,5 +1,30 @@
+<style>
+    @import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+body{
+  margin:0;
+  width:100%; 
+  height:100vh;
+  overflow:hidden;
+  background:hsla(0, 5%, 5%, 1);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: linear-gradient(to right top, hsla(0, 5%,15%, 0.5), hsla(0, 5%, 5%,1));
+}
+svg{
+  width:100%;
+}
+</style>
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ghulamyazdani/ghulamyazdani/blob/main/gifs/Hi.gif" width="30px"></h2>
+<svg width="100%"  viewBox="30 -50 600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+ <path id="path">
+		<animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="6.8s" begin="0s" repeatCount="indefinite"/>
+	</path>
+	<text font-size="1.6rem" font-family="Montserrat" fill='rgb(0%, 100%, 0%)'>
+		<textPath xlink:href="#path">Hey Developers! I am  Ghulam Yazdani...
+    </textPath>
+	</text>
+</svg>
+
 </div>
 
 [![Website](https://img.shields.io/website?label=Proleaker.com&style=for-the-badge&url=https%3A%2F%2Fproleaker.com)](https://proleaker.com)
