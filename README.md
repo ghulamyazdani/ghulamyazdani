@@ -1,18 +1,4 @@
-<style>
-    @import url(https://fonts.googleapis.com/css?family=Montserrat:700);
-body{
-  margin:0;
-  width:100%; 
-  height:100vh;
-  overflow:hidden;
-  background:hsla(0, 5%, 5%, 1);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-image: linear-gradient(to right top, hsla(0, 5%,15%, 0.5), hsla(0, 5%, 5%,1));
-}
-svg{
-  width:100%;
-}
+
 </style>
 <div align="center">
 <svg width="100%"  viewBox="30 -50 600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
