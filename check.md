@@ -11,4 +11,10 @@
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-0078d7.svg?&style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-0078d7.svg?&style=for-the-badge&logo=github-pages&logoColor=white"/>
 <img alt="GitLab" src="https://img.shields.io/badge/GitLab-0078d7.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-0078d7.svg?&style=for-the-badge&logo=gitlab-ci&logoColor=white"/>
+<img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-0078d7.svg?&style=for-the-badge&logo=gitlab-ci&logoColor=white"/>'
+<details>
+  <summary>:computer: Most Used Languages </summary>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamyazdani&langs_count=8)
+  
+</details>

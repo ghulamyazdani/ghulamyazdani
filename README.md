@@ -89,12 +89,7 @@ or <a href="mailto:ghulamyazdani12@gmail.com"><b>email</b></a> me.
 </div>
   
 </details>
-<details>
-  <summary>:computer: Most Used Languages </summary>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamyazdani&langs_count=8)
-  
-</details>
 </div>
 
 
