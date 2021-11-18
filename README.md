@@ -1,7 +1,6 @@
 <div align="center">
-<img src="header.svg" width="800" style="margin-top:-5rem" alt="">
-<br/>
-<img src="./images/Header.png" width="100%" alt="Click to see the source">
+<!-- <img src="header.svg" width="800" style="margin-top:-5rem" alt=""> -->
+<img src="./images/Header.png" width="100%" alt="banner>
 
 [![Website](https://img.shields.io/website?label=Proleaker.com&style=for-the-badge&url=https%3A%2F%2Fproleaker.com)](https://proleaker.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamyazreza?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iamyazreza)
