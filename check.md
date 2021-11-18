@@ -29,3 +29,47 @@
 <!-- [<img align="left" alt="Ghulamyazdani | Twitter"  src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Ghulamyazdani | LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />][linkedin] -->
 <!-- [<img align="left" alt="Ghulamyazdani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+
+---
+</div>
+<div align="center">
+
+### 📺 My Pojects Demo Videos
+</div>
+
+<!-- YOUTUBE:START -->
+- [MaskDetectionWebApp](https://www.youtube.com/watch?v=m5sHA1sG9zA)
+- [Virus Tracker Hack36 Hackathon Project](https://www.youtube.com/watch?v=r3Wtf8QN1vg)
+<!-- YOUTUBE:END -->
+
+<div align="center">
+
+### 📕 Latest Blog Posts
+</div>
+
+<!-- BLOG-POST-LIST:START -->
+- [What is IOT](https://proleaker.com/what-is-iot/)
+- [How To Check If Your Email Is Hacked or Safe??](https://proleaker.com/how-to-check-if-your-email-is-hacked-or-safe/)
+- [How to Get Rid of 5 of the Most Dangerous Android Viruses??](https://proleaker.com/how-to-get-rid-of-5-of-the-most-dangerous-android-viruses/)
+- [What Is the DDoS Protection Bootcamp??](https://proleaker.com/what-is-the-ddos-protection-bootcamp/)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://proleaker.com)
+
+<details>
+  <summary>:zap: GitHub Status</summary>
+
+  <div align="center">
+
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=ghulamyazdani&custom_title=Ghulamyazdani's+GitHub+stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ff7a0d&text_color=F6C819&icon_color=ffb300&cache_seconds=1800" />
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ghulamyazdani&background=00000000&hide_border=true&stroke=F6C819&ring=ff960d&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=F6C819&sideLabels=F6C819&dates=F6C819" />
+  
+</div> 
+
+<div align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=ghulamyazdani&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=F6C819"> <br>
+</div>
+  
+</details>
+
+</div>
