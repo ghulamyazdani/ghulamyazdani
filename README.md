@@ -5,16 +5,12 @@
 [![Website](https://img.shields.io/website?label=Proleaker.com&style=for-the-badge&url=https%3A%2F%2Fproleaker.com)](https://proleaker.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamyazreza?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iamyazreza)
 </div>
-
-## I'm a 3rd Year Undergrad, Programmer, Developer!!
-
-- 🌱 I’m currently learning many things!
-- 👯 I’m a web designer and frontend developer
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 💬 Ask me about Frontend Technologies
-- 📫 How to reach me: [ghulamyazdani12@gmail.com](mailto:ghulamyazdani12@gmail.com)
-
 <div align="center">
+Congratulations! You have successfully discovered my Github profile. <br>
+Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/ghulamyazdani/ghulamyazdani/issues/new"><b>here</b></a><br>
+or <a href="mailto:ghulamyazdani12@gmail.com"><b>email</b></a> me.
+
 
 ### Connect with me:
 
@@ -43,8 +39,12 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img alt="Sass" src="https://img.shields.io/badge/-sass-white?style=for-the-badge&logo=sass&logoColor=white&logoWidth=20&color=CD679B"/>
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F7DF1E.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Canva" src="https://img.shields.io/badge/-canva-white?style=for-the-badge&logo=canva&logoColor=white&logoWidth=20&color=01C4CD"/>
+<img alt="NPM" src="https://img.shields.io/badge/-NPM-brightgreen?color=DC2C34&style=for-the-badge&logo=NPM&logoColor=white&logoWidth=20"/>
 
-![Ghulam Yazdani's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ghulamyazdani&theme=xcode)
+
 ---
 </div>
 <div align="center">
@@ -73,11 +73,20 @@
 
 ---
 
-<div align="center">
+
 <details>
   <summary>:zap: GitHub Status</summary>
 
-  ![Ghulamyazdani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghulamyazdani)
+  <div align="center">
+
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=ghulamyazdani&custom_title=Ghulamyazdani's+GitHub+stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ff7a0d&text_color=F6C819&icon_color=ffb300&cache_seconds=1800" />
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ghulamyazdani&background=00000000&hide_border=true&stroke=F6C819&ring=ff960d&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=F6C819&sideLabels=F6C819&dates=F6C819" />
+  
+</div> 
+
+<div align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=ghulamyazdani&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=F6C819"> <br>
+</div>
   
 </details>
 <details>
