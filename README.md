@@ -1,6 +1,7 @@
-<div align="center">
+
 <img src="header.svg" width="800" alt="Click to see the source">
-</div>
+<img src="images/header.png" width="100%" alt="Click to see the source">
+
 
 [![Website](https://img.shields.io/website?label=Proleaker.com&style=for-the-badge&url=https%3A%2F%2Fproleaker.com)](https://proleaker.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamyazreza?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iamyazreza)
