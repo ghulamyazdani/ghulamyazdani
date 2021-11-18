@@ -1,14 +1,5 @@
 <div align="center">
-<svg width="100%"  viewBox="30 -50 600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
- <path id="path">
-		<animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="6.8s" begin="0s" repeatCount="indefinite"/>
-	</path>
-	<text font-size="1.6rem" font-family="Montserrat" fill='rgb(0%, 100%, 0%)'>
-		<textPath xlink:href="#path">Hey Developers! I am  Ghulam Yazdani...
-    </textPath>
-	</text>
-</svg>
-
+<img src="header.svg" width="800" alt="Click to see the source">
 </div>
 
 [![Website](https://img.shields.io/website?label=Proleaker.com&style=for-the-badge&url=https%3A%2F%2Fproleaker.com)](https://proleaker.com)
