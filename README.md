@@ -48,16 +48,20 @@
 ![Ghulam Yazdani's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ghulamyazdani&theme=xcode)
 ---
 </div>
+<div align="center">
 
 ### 📺 My Pojects Demo Videos
+</div>
 
 <!-- YOUTUBE:START -->
 - [MaskDetectionWebApp](https://www.youtube.com/watch?v=m5sHA1sG9zA)
 - [Virus Tracker Hack36 Hackathon Project](https://www.youtube.com/watch?v=r3Wtf8QN1vg)
 <!-- YOUTUBE:END -->
 
+<div align="center">
 
 ### 📕 Latest Blog Posts
+</div>
 
 <!-- BLOG-POST-LIST:START -->
 - [What is IOT](https://proleaker.com/what-is-iot/)
@@ -70,7 +74,7 @@
 
 ---
 
-
+<div align="center">
 <details>
   <summary>:zap: GitHub Status</summary>
 
@@ -83,7 +87,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamyazdani&langs_count=8)
   
 </details>
-
+</div>
 
 
 
