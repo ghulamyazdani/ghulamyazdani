@@ -2,10 +2,10 @@
 <img src="header.svg" width="800" style="margin-top:-5rem" alt="">
 <br/>
 <img src="./images/Header.png" width="100%" alt="Click to see the source">
-</div>
 
 [![Website](https://img.shields.io/website?label=Proleaker.com&style=for-the-badge&url=https%3A%2F%2Fproleaker.com)](https://proleaker.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamyazreza?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iamyazreza)
+</div>
 
 ## I'm a 3rd Year Undergrad, Programmer, Developer!!
 
@@ -14,6 +14,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Frontend Technologies
 - 📫 How to reach me: [ghulamyazdani12@gmail.com](mailto:ghulamyazdani12@gmail.com)
+
+<div align="center">
 
 ### Connect with me:
 
@@ -24,6 +26,7 @@
 [<img align="left" alt="Ghulamyazdani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 
 ### Languages and Tools:
 
@@ -44,6 +47,7 @@
 
 ![Ghulam Yazdani's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ghulamyazdani&theme=xcode)
 ---
+</div>
 
 ### 📺 My Pojects Demo Videos
 
