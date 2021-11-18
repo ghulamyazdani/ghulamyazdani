@@ -1,6 +1,6 @@
 
 <img src="header.svg" width="800" alt="Click to see the source">
-<img src="images/header.png" width="100%" alt="Click to see the source">
+<img src="./images/header.png" width="100%" alt="Click to see the source">
 
 
 [![Website](https://img.shields.io/website?label=Proleaker.com&style=for-the-badge&url=https%3A%2F%2Fproleaker.com)](https://proleaker.com)
