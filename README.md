@@ -1,5 +1,3 @@
-
-</style>
 <div align="center">
 <svg width="100%"  viewBox="30 -50 600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
  <path id="path">
