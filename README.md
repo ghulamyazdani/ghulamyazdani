@@ -1,9 +1,13 @@
+
 <div align="center">
-<!-- <img src="header.svg" width="800" style="margin-top:-5rem" alt=""> -->
-<img src="./images/Header.png" width="100%" alt="banner>
+<br/>
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>+I+am+Ghulam+Yazdani;Frontent+developer%2Fdesigner;Always+learning+new+things&width=500&height=50&color=ffdc40&center=true" width="800" style="margin-top:-5rem" alt=""> 
+<a href="https://ghulamyazdani.vercel.app/">
+<img src="./images/Header.png" width="100%" alt="banner></a>
 
 [![Website](https://img.shields.io/website?label=Proleaker.com&style=for-the-badge&url=https%3A%2F%2Fproleaker.com)](https://proleaker.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamyazreza?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iamyazreza)
+
 </div>
 <div align="center">
 Congratulations! You have successfully discovered my Github profile. <br>
@@ -11,17 +15,22 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 Ask me anything <a href="https://github.com/ghulamyazdani/ghulamyazdani/issues/new"><b>here</b></a><br>
 or <a href="mailto:ghulamyazdani12@gmail.com"><b>email</b></a> me.
 
+<br/>
 
-### Connect with me:
+### 🚀Connect with me:
 <div align="center">
+<a href="https://linkedin.com/in/ghulamyazdani"><img alt="Website" title="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+
  <a href="https://linkedin.com/in/ghulamyazdani"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/iamyazreza"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/iamyazreza"><img alt="StackOverflow" title="StackOverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+  <a href="https://www.behance.net/ghulamyazdani"><img alt="Behance" title="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
   </div>
 
 <br />
 
 
-### Languages and Tools:
+### 👨‍💻Languages and Tools:
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
