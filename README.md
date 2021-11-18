@@ -1,4 +1,3 @@
-<br/>
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>+I+am+Ghulam+Yazdani;Frontent+developer%2Fdesigner;Always+learning+new+things&width=500&height=50&color=ffdc40&center=true" width="800" style="margin-top:-5rem" alt=""> 
 <div align="center">
 <a href="https://ghulamyazdani.vercel.app/">
