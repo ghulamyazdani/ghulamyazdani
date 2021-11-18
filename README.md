@@ -1,5 +1,6 @@
 <div align="center">
-<img src="header.svg" width="800" alt="Click to see the source">
+<img src="header.svg" width="800" style="margin-top:-5rem" alt="Click to see the source">
+<br/>
 <img src="./images/Header.png" width="100%" alt="Click to see the source">
 </div>
 
