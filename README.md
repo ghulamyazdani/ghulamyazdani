@@ -5,6 +5,7 @@
 
 [![Website](https://img.shields.io/website?label=Proleaker.com&style=for-the-badge&url=https%3A%2F%2Fproleaker.com)](https://proleaker.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamyazreza?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iamyazreza)
+																																																
 
 </div>
 <div align="center">
@@ -63,10 +64,9 @@ or <a href="mailto:ghulamyazdani12@gmail.com"><b>email</b></a> me.
 <div align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=ghulamyazdani&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=F6C819"> <br>
 </div>
-
-
-
-
+<div align="center">
+	<img src="https://komarev.com/ghpvc/?username=ghulamyazdani&style=flat-square&color=yellow">																																																																																			
+	</div>																																																																																																																	
 
 [website]: https://proleaker.com
 [twitter]: https://twitter.com/iamyazreza
