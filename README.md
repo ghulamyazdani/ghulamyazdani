@@ -49,6 +49,7 @@ or <a href="mailto:ghulamyazdani12@gmail.com"><b>email</b></a> me.
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F7DF1E.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Canva" src="https://img.shields.io/badge/-canva-white?style=for-the-badge&logo=canva&logoColor=white&logoWidth=20&color=01C4CD"/>
 <img alt="NPM" src="https://img.shields.io/badge/-NPM-brightgreen?color=DC2C34&style=for-the-badge&logo=NPM&logoColor=white&logoWidth=20"/>
+<img alt="NPM" src="https://img.shields.io/badge/-tailwindCss-brightgreen?color=1DA1F2&style=for-the-badge&logo=tailwindcss&logoColor=white&logoWidth=20"/>																	 
 
 
 
