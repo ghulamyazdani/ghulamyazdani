@@ -51,7 +51,8 @@ or <a href="mailto:ghulamyazdani12@gmail.com"><b>email</b></a> me.
 <img alt="NPM" src="https://img.shields.io/badge/-NPM-brightgreen?color=DC2C34&style=for-the-badge&logo=NPM&logoColor=white&logoWidth=20"/>
 <img alt="NPM" src="https://img.shields.io/badge/-tailwindCss-brightgreen?color=1DA1F2&style=for-the-badge&logo=tailwindcss&logoColor=white&logoWidth=20"/>
 <img alt="NPM" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="NPM" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>															      
+<img alt="NPM" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>		
+<img alt="Node.js" src="https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=white"/>														   
 															     
 
 
