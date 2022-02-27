@@ -36,6 +36,7 @@ or <a href="mailto:ghulamyazdani12@gmail.com"><b>email</b></a> me.
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="React Native" src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img alt="Bootsrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -52,7 +53,8 @@ or <a href="mailto:ghulamyazdani12@gmail.com"><b>email</b></a> me.
 <img alt="NPM" src="https://img.shields.io/badge/-tailwindCss-brightgreen?color=1DA1F2&style=for-the-badge&logo=tailwindcss&logoColor=white&logoWidth=20"/>
 <img alt="NPM" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="NPM" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>		
-<img alt="Node.js" src="https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=white"/>														   
+<img alt="Node.js" src="https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=white"/>	
+		
 															     
 
 
