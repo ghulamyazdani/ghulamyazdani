@@ -22,9 +22,7 @@ or <a href="mailto:ghulamyazdani12@gmail.com"><b>email</b></a> me.
 
  <a href="https://linkedin.com/in/ghulamyazdani"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/iamyazreza"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/15324021/ghulam-yazdani"><img alt="StackOverflow" title="StackOverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-  <a href="https://www.behance.net/ghulamyazdani"><img alt="Behance" title="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
-  </div>
+  
 
 <br />
 
