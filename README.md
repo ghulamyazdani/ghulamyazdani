@@ -56,7 +56,7 @@ or <a href="mailto:ghulamyazdani12@gmail.com"><b>email</b></a> me.
 <img alt="NPM" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>		
 <img alt="Node.js" src="https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=white"/>	
 <img alt="Node.js" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>	
-		
+<img alt="Node.js" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>														 	
 															     
 
 
