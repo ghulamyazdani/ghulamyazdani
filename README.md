@@ -3,7 +3,7 @@
 <a href="https://ghulamyazdani.vercel.app/">
 <img src="./images/Header.png" width="100%" alt="banner></a>
 
-[![Website](https://img.shields.io/website?label=Proleaker.com&style=for-the-badge&url=https%3A%2F%2Fproleaker.com)](https://proleaker.com)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fghulamyazdani.vercel.app)](https://ghulamyazdani.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamyazreza?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iamyazreza)
 																																																
 
