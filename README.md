@@ -1,4 +1,4 @@
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>+I+am+Ghulam+Yazdani;Frontend+developer%2Fdesigner;Always+learning+new+things&width=500&height=50&color=ffdc40&center=true" width="800" style="margin-top:-5rem" alt=""> 
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>+I+am+Ghulam+Yazdani;FullStack+developer;Always+learning+new+things&width=500&height=50&color=ffdc40&center=true" width="800" style="margin-top:-5rem" alt=""> 
 <div align="center">
 <a href="https://ghulamyazdani.vercel.app/">
 <img src="./images/Header.png" width="100%" alt="banner></a>
@@ -55,7 +55,7 @@ or <a href="mailto:ghulamyazdani12@gmail.com"><b>email</b></a> me.
 <img alt="NPM" src="https://img.shields.io/badge/-tailwindCss-brightgreen?color=1DA1F2&style=for-the-badge&logo=tailwindcss&logoColor=white&logoWidth=20"/>
 <img alt="NPM" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="NPM" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>		
-<img alt="Node.js" src="https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=white"/>	
+<img alt="mongodb" src="https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=white"/>	
 <img alt="Node.js" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>	
 <img alt="Node.js" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img alt="Node.js" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>	
