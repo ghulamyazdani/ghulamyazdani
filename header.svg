@@ -1,9 +1,1 @@
-<svg width="800"  viewBox="30 -20 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
- <path id="path">
-		<animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="6.8s" begin="0s" repeatCount="indefinite"/>
-	</path>
-	<text font-size="1.6rem" font-family="Montserrat" fill='rgb(0%, 100%, 0%)'>
-		<textPath xlink:href="#path">Hey Developers! I am  Ghulam Yazdani...
-    </textPath>
-	</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" version="1.1" viewBox="30 -20 200"><path id="path"><animate attributeName="d" begin="0s" dur="6.8s" from="m0,110 h0" repeatCount="indefinite" to="m0,110 h1100"/></path><text fill="#0F0" font-family="Montserrat" font-size="1.6rem"><textPath xlink:href="#path">Hey Developers! I am Ghulam Yazdani...</textPath></text></svg>
