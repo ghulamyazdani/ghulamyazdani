@@ -1,7 +1,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>+I+am+Ghulam+Yazdani;FullStack+developer;Always+learning+new+things&width=500&height=50&color=ffdc40&center=true" width="800" style="margin-top:-5rem" alt=""> 
 <div align="center">
 <a href="https://ghulamyazdani.vercel.app/">
-<img src="./images/Header.png" width="100%" alt="banner></a>
+<img src="./images/TwitterHeader.png" width="100%" alt="banner></a>
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fghulamyazdani.vercel.app)](https://ghulamyazdani.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamyazreza?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iamyazreza)
