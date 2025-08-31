@@ -313,7 +313,7 @@ Other        1 hr 25 mins   █▓░░░░░░░░░░░░░░░�
 ![Profile Views](https://komarev.com/ghpvc/?username=ghulamyazdani&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 [![Followers](https://img.shields.io/github/followers/ghulamyazdani?color=1F6FEB&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/ghulamyazdani)
 [![Stars](https://img.shields.io/github/stars/ghulamyazdani?color=FFA500&style=for-the-badge&logo=github&label=TOTAL+STARS)](https://github.com/ghulamyazdani)
-[![wakatime](https://wakatime.com/badge/user/ghulamyazdani.svg?style=for-the-badge)](https://wakatime.com/@ghulamyazdani)
+
 
 <!-- Trophy Display -->
 <br/>
