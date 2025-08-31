@@ -1,43 +1,134 @@
  <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+%3CDevelopers%2F%3E+I+am+Ghulam+Yazdani;Full+Stack+Developer;Always+learning+new+things&width=500&height=50&color=ffdc40&center=true)
+<!-- Custom animated header with gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ghulam%20Yazdani&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<a href="https://ghulamyazdani.vercel.app/">
-  <img src="./images/TwitterHeader.png" width="100%" alt="banner"/>
-</a>
-
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fghulamyazdani.vercel.app)](https://ghulamyazdani.vercel.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamyazreza?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iamyazreza)
-
-</div>
-
-## 👋 About Me
-
-**Full Stack Developer** passionate about creating innovative web solutions and mobile applications. I love exploring new technologies and building projects that make a difference.
-
-- 🔭 Currently working on full-stack web applications
-- 🌱 Always learning and staying updated with latest tech trends
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about React, Node.js, Python, and web development
-- 📫 How to reach me: **ghulamyazdani12@gmail.com**
-- ⚡ Fun fact: I enjoy solving complex problems and turning ideas into reality
-
-<div align="center">
-
-Feel free to explore my repositories, raise issues, and submit PRs if you think something could be improved!
-Have questions? <a href="https://github.com/ghulamyazdani/ghulamyazdani/issues/new"><b>Ask me here</b></a> or <a href="mailto:ghulamyazdani12@gmail.com"><b>send me an email</b></a>.
+<!-- Interactive typing animation with multiple lines -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer+%26+Problem+Solver;💻+Building+Digital+Dreams+Into+Reality;🌟+Always+Learning+%7C+Always+Growing;🎯+Open+Source+Contributor;🔥+Turning+Coffee+Into+Code;⚡+Let's+Build+Something+Amazing!&font=Fira%20Code&center=true&width=800&height=100&duration=3000&pause=500&color=58A6FF&vCenter=true&multiline=true"/>
 
 <br/>
 
-### 🚀 Connect with me
+
+
+
+
+
+<!-- Animated wave separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<!-- Dynamic portfolio link with hover effect -->
+<a href="https://ghulamyazdani.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=FF6B6B"/>
+</a>
+<a href="https://twitter.com/iamyazreza">
+  <img src="https://img.shields.io/badge/🐦_Twitter-Follow_Me-1DA1F2?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=1DA1F2"/>
+</a>
+
+</div>
+
+<!-- Animated About Me Section -->
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://ghulamyazdani.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghulamyazdani)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamyazreza)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15324021/ghulam-yazdani)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ghulamyazdani)
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> The Developer Behind the Code
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+### 🎯 **Mission Statement**
+*"Transforming ideas into digital reality through clean code and innovative solutions"*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Currently Building:** Next-gen web applications
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Learning Focus:** Advanced cloud architecture
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Collaboration:** Open source contributions
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Expertise:** React, Node.js, Python ecosystems
+
+</td>
+<td width="50%">
+
+### 🚀 **Quick Facts**
+
+```javascript
+const ghulamYazdani = {
+    location: "🌍 Global Remote",
+    languages: ["JavaScript", "Python", "TypeScript"],
+    architecture: ["Serverless", "Microservices", "JAMstack"],
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log and I'm proud of it! 😄"
+};
+```
+
+### 📊 **This Week I Spent Time On:**
+<!--START_SECTION:waka-->
+```text
+TypeScript   8 hrs 12 mins  ████████▒░░░░░░░░░░░░░░  35.2%
+React        6 hrs 34 mins  ██████▓░░░░░░░░░░░░░░░░  28.1%
+Python       4 hrs 15 mins  ████▒░░░░░░░░░░░░░░░░░░  18.3%
+CSS          2 hrs 48 mins  ███░░░░░░░░░░░░░░░░░░░░  12.1%
+Other        1 hr 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░   6.3%
+```
+<!--END_SECTION:waka-->
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 *"Great software is built by great teams. Let's build something amazing together!"*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+**🤝 Open for collaboration • 💼 Available for freelance projects • 🎯 Always up for a coding challenge**
+
+</div>
+
+<!-- Animated Connect Section -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Let's Connect & Build Together
+
+<!-- Custom social media cards with hover effects -->
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+<a href="https://ghulamyazdani.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=000000" height="40" alt="portfolio"/>
+</a>
+
+<a href="https://linkedin.com/in/ghulamyazdani">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" height="40" alt="linkedin"/>
+</a>
+
+<a href="https://twitter.com/iamyazreza">
+  <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" height="40" alt="twitter"/>
+</a>
+
+<a href="https://stackoverflow.com/users/15324021/ghulam-yazdani">
+  <img src="https://img.shields.io/badge/💡_Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=F58025&color=F58025" height="40" alt="stackoverflow"/>
+</a>
+
+<a href="https://www.behance.net/ghulamyazdani">
+  <img src="https://img.shields.io/badge/🎨_Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=1769FF&color=1769FF" height="40" alt="behance"/>
+</a>
+
+</div>
+
+<!-- Contact me section with animation -->
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### 📬 **Get In Touch**
+
+<img src="https://img.shields.io/badge/📧_Email-ghulamyazdani12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836"/>
+
+**💬 Always open to interesting conversations and collaboration opportunities!**
 
 </div>
 
