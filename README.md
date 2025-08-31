@@ -210,7 +210,7 @@ Other        1 hr 25 mins   █▓░░░░░░░░░░░░░░░�
 </td>
 <td width="33%" valign="top">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385061a569.gif" width="25"> **Mobile & Cross-Platform**
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25"> **Mobile & Cross-Platform**
 
 
 
@@ -265,27 +265,68 @@ Other        1 hr 25 mins   █▓░░░░░░░░░░░░░░░�
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghulamyazdani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamyazdani&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="40"> GitHub Analytics & Performance
+
+*"Numbers tell the story of dedication and continuous growth"*
 
 </div>
 
+<!-- Main Stats Grid -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"> **Activity Overview**
+
+<img src="https://github-readme-stats.vercel.app/api?username=ghulamyazdani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Consistency Matters**
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ghulamyazdani&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FFA500&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25"> **Language Mastery**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamyazdani&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> **Contribution Graph**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ghulamyazdani&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFA500)
+
+</td>
+</tr>
+</table>
+
+<!-- Achievement Badges -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ghulamyazdani&theme=tokyonight)](https://git.io/streak-stats)
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"> **Achievement Unlocked**
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=ghulamyazdani&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/ghulamyazdani?color=1F6FEB&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/ghulamyazdani)
+[![Stars](https://img.shields.io/github/stars/ghulamyazdani?color=FFA500&style=for-the-badge&logo=github&label=TOTAL+STARS)](https://github.com/ghulamyazdani)
+[![wakatime](https://wakatime.com/badge/user/ghulamyazdani.svg?style=for-the-badge)](https://wakatime.com/@ghulamyazdani)
 
-<div align="center">
+<!-- Trophy Display -->
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=ghulamyazdani&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ghulamyazdani&color=0e75b6&style=flat)
-[![wakatime](https://wakatime.com/badge/user/ghulamyazdani.svg)](https://wakatime.com/@ghulamyazdani)
+### 🎯 **Quick Stats**
+```
+📅 Account Age: 3+ Years of Coding
+🔥 Streak Record: Building Consistently
+⭐ Total Stars: Growing Repository Network
+🔧 Languages: 10+ Technologies Mastered
+📈 Contributions: Active Open Source Contributor
+```
+
+*"Consistency beats perfection. Every commit counts towards greatness!"*
 
 </div>
 
