@@ -1,7 +1,7 @@
  <div align="center">
 
 <!-- Custom animated header with gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ghulam%20Yazdani&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ghulam%20Yazdani&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Interactive typing animation with multiple lines -->
 <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer+%26+Problem+Solver;💻+Building+Digital+Dreams+Into+Reality;🌟+Always+Learning+%7C+Always+Growing;🎯+Open+Source+Contributor;🔥+Turning+Coffee+Into+Code;⚡+Let's+Build+Something+Amazing!&font=Fira%20Code&center=true&width=800&height=200&duration=3000&pause=500&color=58A6FF&vCenter=true&multiline=true"/>
@@ -41,12 +41,12 @@
 <td width="50%">
 
 ### 🎯 **Mission Statement**
-*"Transforming ideas into digital reality through clean code and innovative solutions"*
+*"Transforming ideas into intelligent digital solutions through AI-powered innovation and clean code"*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Currently Building:** Next-gen web applications
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Learning Focus:** Advanced cloud architecture
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Collaboration:** Open source contributor
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Expertise:** React, Node.js, Python ecosystems
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Currently Building:** AI-powered web applications & ML models
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Learning Focus:** Advanced LLMs, computer vision & MLOps
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **AI Research:** Prompt engineering, fine-tuning, RAG systems
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Expertise:** Full-stack development + AI/ML integration
 
 </td>
 <td width="50%">
@@ -235,6 +235,17 @@ Other        1 hr 25 mins   █▓░░░░░░░░░░░░░░░�
 
 
 
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25"> **AI/ML & Data Science**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25"> **Tools & Workflow**
 
 
@@ -255,17 +266,102 @@ Other        1 hr 25 mins   █▓░░░░░░░░░░░░░░░�
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
+### 🤖 **AI/ML Focus Areas**
+
+<img src="https://img.shields.io/badge/🧠_Machine_Learning-Models_&_Training-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔍_Computer_Vision-Image_Processing-00D2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💬_NLP-Language_Models-9146FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_LLM_Integration-OpenAI_APIs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊_Data_Science-Analytics_&_Insights-FF6B9D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_MLOps-Model_Deployment-orange?style=for-the-badge"/>
+
 ### 🎯 **Currently Exploring**
 
-<img src="https://img.shields.io/badge/🔍_AI/ML-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/🚀_Web3-Blockchain-F7931E?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-<img src="https://img.shields.io/badge/🌐_Serverless-Architecture-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔬_Generative_AI-Creating_Smart_Solutions-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_AI_Automation-Streamlining_Workflows-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Edge_AI-Real_time_Processing-FF9900?style=for-the-badge"/>
 
-*"Always learning, always growing, always coding!"*
+*"Building the future with AI-powered solutions, one algorithm at a time!"*
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
+<!-- AI Projects Showcase -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> AI-Powered Projects & Innovations
+
+*"Transforming ideas into intelligent solutions through cutting-edge AI"*
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 **Machine Learning Solutions**
+
+🧠 **Smart Recommendation Engine**
+- Built personalized content recommendation system
+- Technologies: Python, TensorFlow, collaborative filtering
+- Achieved 85% accuracy improvement
+
+📊 **Predictive Analytics Dashboard** 
+- Real-time data analysis and forecasting
+- Stack: Python, scikit-learn, Streamlit
+- Reduced decision-making time by 60%
+
+🔍 **Computer Vision App**
+- Object detection and image classification
+- Tools: OpenCV, YOLO, FastAPI
+- Processing 1000+ images per minute
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 **AI Integration Projects**
+
+💬 **Intelligent Chatbot Platform**
+- Context-aware conversational AI
+- Integration: OpenAI GPT, LangChain, React
+- Handling 500+ daily conversations
+
+🤖 **AI Content Generator**
+- Automated content creation tool
+- Technologies: GPT-4, Python, Next.js
+- Generated 10,000+ pieces of content
+
+📈 **Business Intelligence AI**
+- Automated report generation system
+- Stack: Python, Pandas, AI/ML models
+- Saving 20+ hours weekly for teams
+
+### 🎯 **Research & Experimentation**
+- **Fine-tuning LLMs** for domain-specific tasks
+- **Prompt Engineering** optimization techniques  
+- **RAG Systems** for knowledge management
+- **Model Optimization** for production deployment
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 **AI Philosophy**
+
+*"AI isn't about replacing human creativity—it's about amplifying it. Every model I build aims to solve real-world problems and create meaningful impact."*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+**🔬 Always experimenting • 🧠 Always learning • 🚀 Always innovating**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
 
