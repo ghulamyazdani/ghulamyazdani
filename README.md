@@ -298,9 +298,9 @@ Other        1 hr 25 mins   █▓░░░░░░░░░░░░░░░�
 
 </div>
 
-<table width="100%">
+<table style="width: 100%">
 <tr>
-<td width="50%" valign="top">
+<td style="width: 50%" valign="top">
 
 ### 🤖 **Machine Learning Solutions**
 
@@ -375,7 +375,7 @@ Other        1 hr 25 mins   █▓░░░░░░░░░░░░░░░�
 <!-- Main Stats Grid -->
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td style="width: 50%" valign="top">
 
 ###  **Activity Overview**
 
