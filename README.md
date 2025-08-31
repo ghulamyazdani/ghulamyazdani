@@ -265,37 +265,39 @@ Other        1 hr 25 mins   █▓░░░░░░░░░░░░░░░�
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="40"> GitHub Analytics & Performance
+##  GitHub Analytics & Performance
 
 *"Numbers tell the story of dedication and continuous growth"*
 
 </div>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 <!-- Main Stats Grid -->
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"> **Activity Overview**
+###  **Activity Overview**
 
 <img src="https://github-readme-stats.vercel.app/api?username=ghulamyazdani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Consistency Matters**
+### **Consistency Matters**
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ghulamyazdani&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FFA500&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25"> **Language Mastery**
+###  **Language Mastery**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamyazdani&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> **Contribution Graph**
+###  **Contribution Graph**
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ghulamyazdani&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFA500)
 
