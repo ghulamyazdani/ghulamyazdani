@@ -4,9 +4,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ghulam%20Yazdani&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Interactive typing animation with multiple lines -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer+%26+Problem+Solver;💻+Building+Digital+Dreams+Into+Reality;🌟+Always+Learning+%7C+Always+Growing;🎯+Open+Source+Contributor;🔥+Turning+Coffee+Into+Code;⚡+Let's+Build+Something+Amazing!&font=Fira%20Code&center=true&width=800&height=100&duration=3000&pause=500&color=58A6FF&vCenter=true&multiline=true"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer+%26+Problem+Solver;💻+Building+Digital+Dreams+Into+Reality;🌟+Always+Learning+%7C+Always+Growing;🎯+Open+Source+Contributor;🔥+Turning+Coffee+Into+Code;⚡+Let's+Build+Something+Amazing!&font=Fira%20Code&center=true&width=800&height=200&duration=3000&pause=500&color=58A6FF&vCenter=true&multiline=true"/>
 
-<br/>
+
+
 
 
 
@@ -44,7 +45,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Currently Building:** Next-gen web applications
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Learning Focus:** Advanced cloud architecture
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Collaboration:** Open source contributions
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Collaboration:** Open source contributor
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> **Expertise:** React, Node.js, Python ecosystems
 
 </td>
