@@ -271,12 +271,12 @@ Other        1 hr 25 mins   █▓░░░░░░░░░░░░░░░�
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-##  GitHub Analytics & Performance
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **GitHub Analytics & Performance**
 
 *"Numbers tell the story of dedication and continuous growth"*
 
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+
 <!-- Main Stats Grid -->
 <table width="100%">
 <tr>
