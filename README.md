@@ -309,7 +309,7 @@ Other        1 hr 25 mins   █▓░░░░░░░░░░░░░░░�
 - Technologies: Python, TensorFlow, collaborative filtering
 - Achieved 85% accuracy improvement
 
-📊 **Predictive Analytics Dashboard** 
+📊 **Predictive Analytics Dashboard**
 - Real-time data analysis and forecasting
 - Stack: Python, scikit-learn, Streamlit
 - Reduced decision-making time by 60%
@@ -341,7 +341,7 @@ Other        1 hr 25 mins   █▓░░░░░░░░░░░░░░░�
 
 ### 🎯 **Research & Experimentation**
 - **Fine-tuning LLMs** for domain-specific tasks
-- **Prompt Engineering** optimization techniques  
+- **Prompt Engineering** optimization techniques
 - **RAG Systems** for knowledge management
 - **Model Optimization** for production deployment
 
@@ -361,7 +361,6 @@ Other        1 hr 25 mins   █▓░░░░░░░░░░░░░░░�
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
 
