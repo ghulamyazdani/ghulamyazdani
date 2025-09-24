@@ -65,13 +65,15 @@ const ghulamYazdani = {
 
 ### 📊 **This Week I Spent Time On:**
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-721.6%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-721.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 718 Contributions in the Year 2025
+> 🏆 735 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,6 +81,45 @@ const ghulamYazdani = {
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                11937 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+🌆 Daytime                199337 commits      ███████████████░░░░░░░░░░   60.32 % 
+🌃 Evening                103613 commits      ████████░░░░░░░░░░░░░░░░░   31.35 % 
+🌙 Night                  15583 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   64943 commits       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Tuesday                  58216 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Wednesday                59724 commits       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Thursday                 56066 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Friday                   54694 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Saturday                 15953 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Sunday                   20874 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -92,7 +133,7 @@ Java                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2025 19:29:55 UTC
+ Last Updated on 24/09/2025 19:38:01 UTC
 <!--END_SECTION:waka-->
 
 </td>
