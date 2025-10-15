@@ -65,8 +65,6 @@ const ghulamYazdani = {
 
 ### 📊 **This Week I Spent Time On:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-722.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -81,45 +79,6 @@ const ghulamYazdani = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                12010 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-🌆 Daytime                200900 commits      ███████████████░░░░░░░░░░   60.30 % 
-🌃 Evening                104388 commits      ████████░░░░░░░░░░░░░░░░░   31.33 % 
-🌙 Night                  15860 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   65465 commits       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Tuesday                  58678 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Wednesday                60156 commits       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Thursday                 56593 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Friday                   55194 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Saturday                 16033 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Sunday                   21039 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -133,7 +92,7 @@ Java                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2025 19:42:42 UTC
+ Last Updated on 15/10/2025 19:33:52 UTC
 <!--END_SECTION:waka-->
 
 </td>
