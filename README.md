@@ -65,7 +65,9 @@ const ghulamYazdani = {
 
 ### 📊 **This Week I Spent Time On:**
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-723.4%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-723.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -79,6 +81,45 @@ const ghulamYazdani = {
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                12042 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+🌆 Daytime                201642 commits      ███████████████░░░░░░░░░░   60.28 % 
+🌃 Evening                104742 commits      ████████░░░░░░░░░░░░░░░░░   31.31 % 
+🌙 Night                  16069 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   65730 commits       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Tuesday                  58947 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Wednesday                60397 commits       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Thursday                 56851 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Friday                   55398 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Saturday                 16039 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Sunday                   21133 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -92,7 +133,7 @@ Java                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 19:26:08 UTC
+ Last Updated on 04/11/2025 19:40:04 UTC
 <!--END_SECTION:waka-->
 
 </td>
